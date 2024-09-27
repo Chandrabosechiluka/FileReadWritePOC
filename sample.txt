@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains a few lines of text to demonstrate reading from a text file.
+Feel free to add more lines to see how the program handles them.
